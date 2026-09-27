@@ -1,0 +1,401 @@
+# Interior quotation comparison for flat 12 807
+
+Happy Living enters at number 5 as a budget reserve; the first four preferences remain unchanged. Start with DZINE for value, 5Tattva as the mid-range alternative, Lucky for stronger identifiable local review evidence, and IRIS for the closest written match to the visual design. This is a provisional order for the next quotation round, not approval to pay a deposit. The ranking balances quoted value, design coverage, material specificity, commercial terms and review confidence; it is not a measurement of workmanship.
+
+Reviewed all 13 submitted offers, including Happy Living’s quotation and separate material sheet, against the attached 15-page 12807 design requirments v1.pdf for flat 12-807, My Home Sayuk. The user’s mention of 12801 was treated as a filename typo. Visual references describe intended features but are not complete construction drawings: items absent from a quote are labelled unpriced or unconfirmed, not asserted to be excluded unless the vendor says so. Loose beds, sofas, appliances, curtains and décor were not silently added to the common scope. Research date: 27 September 2026.
+
+## Preference order and cost
+
+All prices below retain each supplier’s tax basis. They are not complete comparable project totals. Only supplier-listed allowances are added.
+
+| Rank | Vendor | Quoted price or published allowance scenario | Decision |
+|---|---|---|---|
+| 1 | DZINE Studio | ₹12,05,460 + unpriced scope and tax clarification | Shortlist |
+| 2 | 5Tattva Dsign Studio | ₹14,51,150 including its listed allowances; further extras/tax unresolved | Shortlist |
+| 3 | Lucky Interiors | ₹17,22,582 net; ₹19,86,632 if page-5 extras are fully additional; GST extra | Shortlist |
+| 4 | IRIS Design Studio Hyderabad | ₹19,83,434 + blank/unpriced items and tax clarification | Shortlist |
+| 5 | Happy Living Interiors | ₹12,89,608 including all priced optional sections; purchases, upgrades, missing scope and taxes extra | Reserve |
+| 6 | Casa Interiors and Decor | ₹16,01,360 with its three listed 3BHK allowances; remaining scope/tax unresolved | Reserve |
+| 7 | Trendy Space | ₹18,68,325 + stone supply, omitted units/services and tax clarification | Reserve |
+| 8 | D’LIFE Interiors | ₹23,36,371 at the quote’s 18% GST, before remaining work | Reserve |
+| 9 | Rohit Vihangawala Interiors | ₹13,33,025 with ₹35,000 design; civil/stone/utility and taxes extra | Needs rewrite |
+| 10 | Gautam Carpenter and Interiors | ₹9,85,000 consolidated estimate; included scope and tax need confirmation | Needs rewrite |
+| 11 | Vighnaharta Interiors | ₹12,13,000 item total; ₹12,00,000 rough offer; painting/tax unclear | Needs rewrite |
+| 12 | Mega Interiors | ₹18,91,150; alternatives ₹18,00,850 and ₹17,42,850; important exclusions remain | Needs rewrite |
+| 13 | RK Interior Design Works | ₹14,54,750 printed; listed lines actually sum to ₹14,57,750 | Needs rewrite |
+
+## Reference scope
+
+**Drawing room — requirements pp. 5–6.** God-frame ledge/display, separate mirror and storage wall with tall glass unit, and tray ceiling. A generic TV unit near the entrance is not an automatic match.
+
+**Serving counter — requirements p. 6.** Approximately 5 ft × 2 ft 9 in × 3 ft, storage on one side and seating overhang on the other. Counter support and clear passage must be checked.
+
+**Living TV wall — requirements pp. 7–8.** Approximately 9 ft × 9 ft composition with usable upper, base and tall-side storage; decorative centre and lighting. Do not price the entire wall as plain panelling or assume all 81 sq ft is a deep cabinet.
+
+**Pooja — requirements pp. 9–10.** Detailed corner storage, glass upper doors, open shelves, drawers, decorative relief/arch and a stone altar. Nominal design notes specify 24 in depth and 31 in finished altar height; verify against actual room.
+
+**Kitchen — requirements p. 9.** U-shaped lower/wall/loft cabinetry, white finish, baskets/drawers and under-cabinet lighting. The reference does not itself mandate acrylic or a particular hardware brand.
+
+**Bedrooms — requirements pp. 10–13.** Three wardrobes/lofts, master study and passage dressing/storage; bedroom 3 study and reference mirrored/display elements. Bed images do not establish a priced custom-bed requirement. Map bedroom numbering carefully.
+
+**Four washbasin areas — requirements pp. 11–14.** Three bathroom vanities with mirrors, plus common handwash base/upper storage, mirror and shelves. A quoted vanity box alone is not a complete fixture/top/mirror package.
+
+**Utility — requirements p. 15.** Long lower and upper cabinets, tall storage, stainless-steel worktop/backsplash, sink/tap and visible utensil-drying arrangement. Basic utility storage does not reproduce this.
+
+**Ceilings and finishing — requirements pp. 5–15.** Decorative drawing/living ceilings and lighting, wall mouldings/mirrors, painted finish, protection and final cleaning. Bedroom views show simpler ceilings; full bedroom false ceilings are not automatically mandatory.
+
+## Important comparison findings
+
+**Happy Living’s total already includes the priced optional sections.** ₹8,20,078 base + ₹2,38,220 ceiling/electrical/paint/protection + ₹1,84,310 finishing allowances + ₹47,000 civil/plumbing = ₹12,89,608. Do not add factory shutter edging, profile doors, design or lighting twice. General soft-close, client stone/tile/sink purchases, deep cleaning, taxes and omitted reference units remain outside this number.
+
+**Happy Living’s lower price comes with a smaller scope.** It enters at rank 5, ahead of Casa but behind the four shortlisted offers. Its utility is only one 8.8 sq ft box, the third bathroom vanity is absent, and the drawing mirror wall, serving counter, proper TV storage and full U-shaped kitchen are not demonstrated. Its BWR dry-area plywood and general non-soft-close fittings also differ from the leading offers. Good directory ratings support a site visit; they do not close these gaps.
+
+**Like-for-like price is not yet available.** The quotes differ in scope, quantities, finish and tax treatment. The report only adds supplier-listed allowances and corrects arithmetic; it does not invent a completion budget for unspecified work. A plus sign means unresolved money remains.
+
+**Gautam and Vighnaharta may be related.** Both documents list 9651202712. Keep both submitted offers visible, but do not count them as independent competitive bids until the business relationship and scope are confirmed.
+
+**Measurements are provisional and sometimes inconsistent.** The brief lists 1,926 sq ft saleable and 1,335 sq ft carpet area. Its separate measured-area sheet totals 1,346.47 sq ft and contains decimal/feet-inch ambiguity. None is an automatic false-ceiling billing quantity. Ceilings range from 712 sq ft at Lucky to 2,166.8 sq ft at Casa; returns, drops and coves need separate measured treatment.
+
+**The visual finish is more detailed than ordinary laminate boxes.** White-and-gold mouldings, framed/mirrored doors, glass profiles, lit shelves and the pooja relief need exact finish samples and a priced drawing. A 1 mm laminate inclusion alone does not promise these details.
+
+**Plywood product names are not certificates.** IS 303 can include BWP general-purpose plywood; marine plywood has the separate IS 710 standard. Century currently describes Sainik 710 as complying with IS 303 BWP, despite 710 in its product name. Require the sheet label, current product datasheet, grade, manufacturer and invoice rather than rejecting or accepting a board solely on the number.
+
+**Payment exposure differs considerably.** D’LIFE asks for all but ₹20,000 before dispatch, IRIS all money before finishing, Rohit nearly all money before shutter skins and Mega 70% on order. Negotiate a visible installation milestone and a meaningful snag-completion balance. A long plywood warranty is not the same as a workmanship warranty.
+
+Material-standard sources: [IS 710 marine plywood standard](https://www.bis.gov.in/is-710-2024/), [BIS compendium distinguishes general-purpose and marine plywood](https://services.bis.gov.in/tmp/compendium_2025-06-02-04-13-12.pdf), [Century Sainik 710 current product specification](https://www.centuryply.com/plywood/sainik-710).
+
+## Vendor assessments
+
+### 1 DZINE Studio
+
+**Price:** ₹12,05,460 + unpriced scope and tax clarification
+
+Best value candidate on the written scope: substantial storage, seven Hettich tandem boxes, four profile doors, lighting, painting and cleaning at the lowest detailed package price. First to seek a corrected fixed-scope quotation from; execution quality is still unverified.
+
+**Materials:** Gurjan 710 BWP plywood, but no plywood manufacturer or thickness schedule. Hettich/Häfele fittings; Hettich baskets, pullout and seven tandem boxes. Merino/Greenlam/Century 1 mm laminate, factory edge banding. WPC for three bathroom units. Saint-Gobain Gyproc, Bright Ultra channel, Finolex wiring, builder-make Legrand switches, Asian Royale paint.
+
+**Included:** Three wardrobes with lofts; master dressing; studies/ledge; U-shaped kitchen; mandir with crockery; common washbasin storage and mirror; three WPC bathroom units with mirrors; utility storage; entrance storage; four profile doors; seven tandem boxes and one pullout; electrical fixtures; whole-house painting and deep cleaning.
+
+**Missing, excluded or unconfirmed:** Stone/countertops, backsplash and plumbing are not separately priced. Utility stainless-steel countertop, backsplash and drying rack are not specified. Exact pooja relief/arch, decorative trims and complete TV storage need a drawing match. GST, design fees, board thicknesses, soft-close model numbers, warranty and payment milestones are unstated. Only two halls have false ceilings; kitchen ceiling is not covered by that line.
+
+**Added or potentially optional scope:** ₹25,000 POP wall design may help achieve the references, but must be mapped to actual walls. Acrylic, veneer and deco are explicitly extra. Clarify whether any bedroom ceiling is wanted; the references show relatively plain bedroom ceilings.
+
+**Cost and measurement audit:** ₹9,60,060 joinery/accessories + ₹2,45,400 other works = ₹12,05,460. Reconcile the 588 sq ft box and 106 sq ft frame totals to the room schedule; the listed items do not provide a clean measurement bridge. Do not treat those aggregates as verified final measurements.
+
+**Payments, warranty and timing:** 90 working days from handover of site. No written payment schedule or workmanship warranty in the workbook.
+
+**Review evidence:** No confidently matched public customer-review profile found using the name, phone 7995136581 and email dzinestudio2903@gmail.com. The similarly named DE Dzine Studio in Banjara Hills cannot be assigned to this vendor.
+
+**Next quotation request:** Price every remaining stone, plumbing and design item; freeze exact plywood brand/thickness and soft-close hardware models; provide two occupied-home references and one site in progress before any large advance.
+
+Sources: [DZINE STUDIO.xlsx](</Users/kush.jain/Library/CloudStorage/GoogleDrive-kush.jain@salesforce.com/.shortcut-targets-by-id/1fiW1nOgM1bIBHzb6GCBhbxNYPMMMK_DA/Home-12807 my home sayuk/interiors/quotations after design v1/DZINE STUDIO.xlsx>) — Sheet1 rows 6–77.
+
+### 2 5Tattva Dsign Studio
+
+**Price:** ₹14,51,150 including its listed allowances; further extras/tax unresolved
+
+A useful mid-range alternative with room-level quantities and an unusually explicit list of owner-side allowances. Its low headline price nevertheless omits design details and supplies needed to reproduce the reference.
+
+**Materials:** ISI-marked Gurjan BWP plywood without a manufacturer or thickness schedule; HDMR/pine-board shutters. 0.8 mm Virgo liner and 1 mm external laminate capped at ₹1,600/sheet. Hettich soft-close hinges and five Hettich Innotech kitchen drawers. General drawers use Evershine non-soft-close channels. Saint-Gobain gypsum with Ultra channel; several permitted wire brands.
+
+**Included:** Kitchen and lofts; utility 52 sq ft storage; console; common handwash above/below storage; living TV unit; temple storage; three wardrobes/lofts; master dressing; studies in master and bedroom 3; three bathroom vanity boxes; whole-house basic ceiling, painting, wiring, handles and cleaning.
+
+**Missing, excluded or unconfirmed:** ₹30,000 design, ₹10,000 utility tap/sink, ₹40,000 lights, ₹10,000 tiles, ₹5,000 pooja/crockery tops, ₹35,000 civil labour and ₹5,500 plumbing sit outside the headline. Main kitchen countertop supply is not clearly covered by those allowances. Temple CNC/profile glass, shelves, profiles, ornamental details, extra drawers and decorative lights are additionally chargeable. Serving-counter dimensions, reference mirror wall and complete utility finish are not demonstrated.
+
+**Added or potentially optional scope:** Bedroom 2 adds ₹12,000 window seating and ₹14,700 dressing mirror/drawer. Confirm these are wanted: they are not clearly called out in the supplied bedroom reference. Termite treatment is another explicit ₹5,000 allowance.
+
+**Cost and measurement audit:** ₹13,15,650 + ₹1,35,500 stated owner-side allowances = ₹14,51,150. This is still not a complete final price. Five kitchen soft-close drawers do not mean all drawers in the house are soft-close.
+
+**Payments, warranty and timing:** 5% booking, 40% before starting work, 35% at box/inner-laminate completion, 15% at ceiling/outer-laminate completion, 5% handover. Final remeasurement; 20-day validity. No project warranty or firm completion period stated.
+
+**Review evidence:** No confidently matched independent reviews found using the actual 5Tattva Dsign Studio name, its email domain, Sudipta and the quoted phone numbers. The filename STATVA is not the business name printed in the document.
+
+**Next quotation request:** Return a single all-inclusive schedule including pooja detailing, reference wall trims/mirrors, serving counter, stone, all lighting and exact drawer counts. Specify a plywood brand and upgrade any required general drawers to soft-close.
+
+Sources: [STATVA INTERIORS.pdf](</Users/kush.jain/Library/CloudStorage/GoogleDrive-kush.jain@salesforce.com/.shortcut-targets-by-id/1fiW1nOgM1bIBHzb6GCBhbxNYPMMMK_DA/Home-12807 my home sayuk/interiors/quotations after design v1/STATVA INTERIORS.pdf>) — pages 1–3.
+
+### 3 Lucky Interiors
+
+**Price:** ₹17,22,582 net; ₹19,86,632 if page-5 extras are fully additional; GST extra
+
+One of the clearer identifiable local review records among the value-oriented candidates, with detailed joinery and materials. More expensive, but worth a final quote if the unexplained additions and measurements are corrected.
+
+**Materials:** Sylvan Primo Plus BWP 16 mm carcasses, 9 mm backs, 18 mm HDHMR shutters and 16 mm tandem bottoms. 2 mm Rehau edging on carcass and shutters; 0.8 mm fabric liner, 1 mm exterior laminate capped at ₹2,500/sheet. Hettich/Häfele hinges and Hettich soft-close telescopic drawers; regular loft hinges. BOILO vanities with painted finish and SS304 hinges. Finolex/Polycab wiring; Royale paint.
+
+**Included:** Three wardrobes and lofts; master dressing; bedroom desks/foldable table; drawing/TV storage and console; detailed mandir/CNC/arch and profile doors; four vanity bases; glass/mirror allowance; kitchen with five tandem boxes, pullout, tray and thali rack; ceiling, wiring, painting and cleaning.
+
+**Missing, excluded or unconfirmed:** Utility has only 11.5 sq ft upper storage, much less than the reference combination of lower/upper/tall storage and stainless-steel worktop. Page-5 lights, profile lights, stone, tiles, installation, plumbing and matting are outside the basic schedule. Common handwash mirror/upper cabinet is not separately defined despite a general mirror allowance. Confirm all seven-foot wardrobe doors match the reference style and the precise TV storage layout.
+
+**Added or potentially optional scope:** ₹55,125 master bed-back panelling is a clear candidate to remove if the bed/headboard in the image is intended as loose furniture. ₹23,000 sofa-wall fluted panelling may be an added finish beyond the reference mouldings. Page 5 also includes ₹4,800 wallpaper and provisional gas/sprinkler changes; only retain if needed.
+
+**Cost and measurement audit:** Page 3: ₹15,80,350 + unexplained Add Ons ₹1,42,232 = ₹17,22,582. The addition is approximately 9%, but its purpose is not identified. Page 5 lists ₹2,64,050 of additional works. If fully additive, budget ₹19,86,632 before GST. If ₹1,42,232 is part of that allowance, the alternative arithmetic is ₹18,44,400; this is a reconciliation scenario, not an offered lower price. Kitchen loft 114.12 sq ft at ₹1,42,650 deserves remeasurement. Room woodwork subtotals differ by only ₹1 from the rounded summary.
+
+**Payments, warranty and timing:** 5% design booking, 45% before procurement, 25% material dispatch, 20% after carcass/before hardware, 5% at handover. 2 years free service; material warranty through brands. Quote tier suggests 90 working days for ₹15–18 lakh, with design meetings/timeline in addition; clarify final cost tier.
+
+**Review evidence:** Identity matched by both phone 9989010288 and Nallagandla address. Yappe displays 4.7/5 from 127 reviews, including praise for Ramesh, responsiveness, workmanship and timelines; visible reviews are older. Magicpin displays 4.6/5 from 91 online ratings. These are directory snapshots, not independently audited or necessarily current Google counts.
+
+**Next quotation request:** Explain ₹1,42,232 line by line and reconcile it with page 5; expand utility to the reference; remove optional panelling; recalculate kitchen lofts in feet-and-inches or millimetres; issue one GST-inclusive payable total.
+
+Sources: [LUCKY INTERIORS.pdf](</Users/kush.jain/Library/CloudStorage/GoogleDrive-kush.jain@salesforce.com/.shortcut-targets-by-id/1fiW1nOgM1bIBHzb6GCBhbxNYPMMMK_DA/Home-12807 my home sayuk/interiors/quotations after design v1/LUCKY INTERIORS.pdf>) — pages 1–5; pricing reconciliation on pages 3 and 5.
+
+Review sources: [Yappe review listing](https://yappe.in/telangana/hyderabad/luckyinteriors/243596), [Magicpin listing](https://magicpin.in/Hyderabad/Nallagandla/Lifestyle/Lucky-Interiors/store/18cbb06), [Official identity match](https://www.luckyinteriorshyd.com/).
+
+### 4 IRIS Design Studio Hyderabad
+
+**Price:** ₹19,83,434 + blank/unpriced items and tax clarification
+
+Best written coverage of the specific visual reference, especially the drawing-room mirror wall, serving counter, pooja design and stainless-steel utility. A stronger design-fit candidate if your budget is higher, but payment and scope gaps need correction.
+
+**Materials:** 19 mm Century Sainik 710 for wardrobe/carcass/shutters as described; the wording around kitchen scope needs a unit-by-unit schedule. PVC backing for kitchen, 0.8 mm internal laminate, 1 mm Merino/Greenlam/Royale Touche external laminate. Hettich kitchen hardware and eight tandem drawers; Ebco/Hettich elsewhere. Saint-Gobain gypsum; Avion/Wipro lights; Asian Royale paint.
+
+**Included:** Drawing God-frame base and lit frame, horizontal/vertical storage, framed mirror, classical moulding, serving counter/top, TV upper/base/side storage, detailed pooja and its top, complete common washbasin unit, kitchen, substantial utility storage with stainless-steel countertop/backsplash, wardrobes/dressing/studies, lighting and electrical work, painting, protection and garbage cleaning.
+
+**Missing, excluded or unconfirmed:** Kitchen backsplash, quartz counter and whole-home laying charges have blank prices. Only two bathroom vanities are separately priced; the third bathroom vanity is not listed. Photo frames, grille/pigeon mesh and furnishings also have blank prices. Bedroom false-ceiling rows are blank and electrical notes explicitly assume no bedroom false ceiling; this can match the simpler bedroom references. Design fees, GST, workmanship warranty and final deep-cleaning scope need confirmation.
+
+**Added or potentially optional scope:** ₹37,000 shoe rack and ₹3,500 utility clothes hanger are practical additions but not explicit requirements. ₹56,000 factory finishing/edge banding is charged separately. ₹20,000 electrical chipping is linked to having no bedroom false ceiling, not necessarily a duplicate.
+
+**Cost and measurement audit:** The listed numeric line items add to ₹19,83,434. Some areas appear to treat feet-and-inches as decimal feet: for example 7 ft × 9 ft 3 in is 64.75 sq ft, not the listed 65.1 sq ft. Recalculate all dimensions, not just the grand total. Drawing ceiling 270 sq ft versus its approximately 148 sq ft footprint requires an explanation of measured returns/coves.
+
+**Payments, warranty and timing:** 50% before commencement, 40% at woodwork-structure completion and 10% before final finishing: effectively 100% paid before finishing. No specified completion date or workmanship warranty.
+
+**Review evidence:** No confidently matched review profile found for this precise Hyderabad studio. The PDF gives no phone, street address or website to distinguish it from other IRIS businesses. Do not apply reviews for foreign IRIS studios or differently named Hyderabad firms.
+
+**Next quotation request:** Fill every blank cost; add the third bathroom vanity; correct the measurement arithmetic; identify the legal business and local projects; retain payment through finishing and snag completion.
+
+Sources: [IRIS.pdf](</Users/kush.jain/Library/CloudStorage/GoogleDrive-kush.jain@salesforce.com/.shortcut-targets-by-id/1fiW1nOgM1bIBHzb6GCBhbxNYPMMMK_DA/Home-12807 my home sayuk/interiors/quotations after design v1/IRIS.pdf>) — pages 1–3.
+
+### 5 Happy Living Interiors
+
+**Price:** ₹12,89,608 including all priced optional sections; purchases, upgrades, missing scope and taxes extra
+
+Fifth overall and the first budget reserve: an arithmetically consistent quote with identifiable local review evidence, priced finishing allowances and a stated service warranty. It ranks below DZINE and 5Tattva because utility, kitchen and reference storage coverage are materially weaker; below Lucky for the specified hardware/finishing package and below IRIS for design coverage. Its lower price is attractive, but is not for the same scope. It ranks above Casa because the disclosed package is cheaper and the cost build-up is clearer, while both require substantial utility additions. A corrected specification and complete room schedule could move it into the shortlist.
+
+**Materials:** 18 mm Gurjan IS 303 BWR plywood outside the kitchen; 18 mm BWP 710 marine ply under the kitchen platform, with ₹25,000 already charged for that provision. No plywood manufacturer, back-panel thickness or complete shutter schedule. Other kitchen components and bathroom/utility substrates require clarification. General Hettich non-soft-close hinges/channels (quotation permits Hettich/Häfele); five soft-close Hettich/Häfele kitchen tandem trays plus one Cargotech pullout are included for ₹35,000. General soft-close is unpriced at ₹280/hinge set and ₹800/channel set, quantities absent. 1 mm outer laminate allowance ₹1,400/sheet and 0.8 mm fabric liner ₹450/sheet; laminate manufacturer unstated. Standard edging is 0.8 mm manually pasted, but the ₹12.90 lakh grand total already includes ₹42,160 for 2 mm factory-finished shutter edging; carcass edging is not similarly upgraded. Modi/Saint-Gobain plain/frosted glass and dressing mirrors; Saint-Gobain or equivalent gypsum, channel described only as 0.4 gauge; Polycab wire and Wipro lights. BWR in a dry unit is not automatically unsuitable; the concern is the unnamed product and undefined wet-area specification.
+
+**Included:** Three wardrobes and lofts, master dressing, desks in all three bedrooms and an additional master foldable table; two bathroom vanity boxes plus common handwash base; TV base/frame; 14 sq ft pooja unit; 34 sq ft crockery storage; small balcony seat; kitchen base/wall/loft/tall units; one 8.8 sq ft utility box. ₹30,000 design/3D fee, ₹25,000 kitchen marine-ply provision and ₹35,000 kitchen accessories are included in the ₹8,20,078 base. The ₹12,89,608 grand total also includes every priced optional section: 1,355 sq ft ceiling and its paint, wiring/light allowances and labour, floor protection, wall paint, profile doors, factory shutter edging, G-profile handles, CNC allowance, ceiling profile lighting, wallpaper, one designer wall, ₹12,000 plumbing and ₹35,000 stone/tile laying labour and materials.
+
+**Missing, excluded or unconfirmed:** Utility is only 4 ft × 2.2 ft = 8.8 sq ft of box work, versus the reference lower/upper/tall storage and stainless-steel top/backsplash/drying arrangement; the quote instead refers to owner-supplied utility granite. Only two bathroom vanities are listed, so the third remains unquoted. Common handwash upper storage/mirror/shelves are not explicitly itemised. Separate drawing-room God-frame ledge and mirror/storage ensemble, serving counter with seating overhang, usable TV upper/side cabinets, exact pooja corner/arch/shelf layout and full U-shaped kitchen are not demonstrated. Kitchen base totals only 31.08 sq ft and wall storage only 16.28 sq ft, excluding tall/loft units; verify against the floor plan. Kitchen/utility granite, kitchen dado tiles and new sink/tap purchases are explicitly client scope. Deep cleaning is explicitly client scope. General soft-close hardware, tax rate/basis, extra drawers, special mirror/PU finishes and complete wet-area materials are not fixed. No payment milestones or completion date.
+
+**Added or potentially optional scope:** Potential deletions only after mapping the drawings: balcony seating 7.2 sq ft × ₹1,450 = ₹10,440; additional master foldable table 5.4 sq ft × ₹950 = ₹5,130; wallpaper ₹22,800; one designer wall ₹40,000. These four total ₹78,370, but the designer wall may be needed for the reference: this is not an assured saving or revised vendor offer. ₹35,000 profile doors, ₹4,250 CNC and ₹35,000 profile lights can help deliver required details and should not be removed simply because the quote calls them optional. Do not add these, factory edging or design fees again on top of the grand total. Confirm whether 1,355 sq ft ceiling and 2,200 sq ft wall-paint coverage are wanted and sufficient.
+
+**Cost and measurement audit:** All arithmetic reconciles: 340.84 sq ft boxes × ₹1,450 = ₹4,94,218; 204.96 sq ft frames × ₹950 = ₹1,94,712; 68.58 quoted panel units × ₹600 = ₹41,148. With ₹25,000 marine ply + ₹35,000 accessories + ₹30,000 design, base = ₹8,20,078. Section I ₹2,38,220 + section II ₹1,84,310 + civil section ₹47,000 gives ₹12,89,608. The soft-close row has no amount and contributes nothing to that total. Row sums match all three quantity totals, but this validates arithmetic, not actual measurement or scope. TV frame is 8 ft × 15 ft = 120 sq ft (₹1,14,000), whereas the reference living TV wall is about 9 ft × 9 ft; locate this frame on the drawings rather than assuming a saving. Bedroom 3 loft is charged as a box while the other two are frames. Panel rows multiply width by height but are labelled running feet; resolve the unit basis. ₹12,89,608 is ₹84,148 above DZINE’s quote, while the two scopes and materials differ substantially. No defensible complete final project total can yet be calculated.
+
+**Payments, warranty and timing:** Quote dated 27 September 2026, valid one month; taxes applicable as per government, with no rate or taxable basis. Many optional figures are approximate or bill-to-bill. Quote says 12-year warranty without specifying coverage; materials sheet says 1-year service warranty and 2-year hardware anti-rust warranty; kitchen-accessory line says lifetime warranty. These are different promises, not a documented 12-year full-project warranty. Obtain the responsible manufacturer/contractor and exclusions for each. No payment schedule or delivery commitment in either attachment.
+
+**Review evidence:** Matched by the exact Rajpurohit Tower, second-floor, Gachibowli/Nanakramguda address. Yappe displays 4.9/5 from 103 reviews, with older comments praising design consultation, communication, supervision and timelines. Justdial Gachibowli displays 4.9/5 from 137 ratings across the web; one visible comment refers to event organisers, so its rating is imperfect evidence. These counts must not be added together or treated as verified live Google counts. The directory phone is 9949524777, whereas the quotation contact is 9652565240; the match is by business name/address, not that phone. The company website displays positive testimonials, including mentions of follow-ups and some delay, but these are vendor-selected. Reviews for the separately listed Madinaguda business were not attributed to this quote without establishing the branch/legal-business connection. Overall a positive public footprint, with current site visits and owner references still needed.
+
+**Next quotation request:** Issue a revised BOQ mapped to every reference page, adding the full utility with stainless steel, third bathroom vanity, drawing mirror/storage wall, serving counter, proper TV storage and full kitchen. Identify plywood maker/grade for each wet and dry unit, confirm factory edging already counted and price all required soft-close hardware. Explain 120 sq ft TV frame and panel units; remove only unwanted decorative additions. Provide a single tax-inclusive total including owner purchases and deep cleaning, a completion date, payment milestones and separate material/workmanship warranty terms.
+
+Sources: [happyliving 1.pdf](</Users/kush.jain/Library/CloudStorage/GoogleDrive-kush.jain@salesforce.com/.shortcut-targets-by-id/1fiW1nOgM1bIBHzb6GCBhbxNYPMMMK_DA/Home-12807 my home sayuk/interiors/quotations after design v1/happyliving 1.pdf>), [happy living 2.pdf](</Users/kush.jain/Library/CloudStorage/GoogleDrive-kush.jain@salesforce.com/.shortcut-targets-by-id/1fiW1nOgM1bIBHzb6GCBhbxNYPMMMK_DA/Home-12807 my home sayuk/interiors/quotations after design v1/happy living 2.pdf>) — quotation pages 1–3; material specification page 1.
+
+Review sources: [Address-matched Yappe reviews](https://yappe.in/telangana/hyderabad/happy-living-interiors/243577), [Gachibowli Justdial reviews](https://www.justdial.com/Hyderabad/Happy-Living-Interiors-Gachibowli/040PXX40-XX40-220309151658-U7P1_BZDET/reviews), [Company-selected testimonials](https://www.happylivinginteriors.com/).
+
+### 6 Casa Interiors and Decor
+
+**Price:** ₹16,01,360 with its three listed 3BHK allowances; remaining scope/tax unresolved
+
+A credible reserve with identifiable local presence and an acrylic kitchen. It is not a ₹13 lakh complete project once its own exclusions are included, and the utility/TV scope is materially weaker than the reference.
+
+**Materials:** Own-brand 18 mm plywood described as BWP, marine grade, IS 303; clarify the exact certified grade rather than assuming IS 303 cannot be BWP. HDHMR/blockboard shutter options. 0.8 mm liner, 1 mm external laminate with ₹1,400/sheet outside-brand allowance. Rehau 0.8 mm carcass/2 mm shutter edging. Ebco/Nimmi hardware; Hettich/Häfele extra. Acrylic kitchen is in the room schedule.
+
+**Included:** Foyer storage/panels/tall unit, TV base/panel/tall unit, common vanity base, pooja, acrylic kitchen/tall unit, three wardrobes/lofts, master dressing, studies/foldable ledge, three bathroom storage boxes, three SS drawers/inlets and pullout; ceiling, putty/primer, design, cleaning and floor protection.
+
+**Missing, excluded or unconfirmed:** Utility is only a 2 ft × 2 ft box, far short of the reference. Serving counter, full common-vanity mirror/overhead storage and TV upper storage are not explicitly itemised. Granite ₹80,000, painting ₹80,000 and electrical ₹1,40,000 are separate approximate 3BHK allowances; scope of fixtures in electrical remains unclear. Sink, taps, profile doors and precise mandir decorative work need pricing.
+
+**Added or potentially optional scope:** 2,166.8 sq ft ceiling is the largest allowance in this set; require a room-by-room take-off. ₹20,000 protection and ₹20,000 cleaning are higher than several peers, but are stated charges rather than proven overbilling. Confirm the two foyer base boxes serve distinct required purposes.
+
+**Cost and measurement audit:** ₹13,01,360 + ₹80,000 granite + ₹80,000 painting + ₹1,40,000 electrical = ₹16,01,360. ₹61,786 tax is included using 18% on 35% of the ₹9,80,735 woodwork value. This reproduces the quote’s method, not a validation of its tax treatment; obtain the full final invoice basis. Quoted ceiling 2,166.8 × ₹65 = ₹1,40,842, versus ₹1,40,839 printed, a ₹3 discrepancy.
+
+**Payments, warranty and timing:** 15% booking, 20% ceiling-design stage, 25% 3D-finalisation stage, 25% carcass, 10% factory-door delivery, 5% before cleaning. 15-year own-ply warranty, 2-year hardware and free service, exclusions for extra works. 20 working days first-cut design; further design and installation stages separate.
+
+**Review evidence:** Phone and address match. Glassy reports 5.0/5 from 94 reviews and labels them Google-derived, but exposes no individual review text on the inspected page and contains generic directory copy. Company-site testimonials are positive but selected by the vendor. Ellopages has no reviews. This is encouraging but weaker evidence than recent direct customer references.
+
+**Next quotation request:** Expand utility and other omitted units, identify actual plywood manufacturer and grade, itemise the ceiling area, reconcile tax and electrical allowances, and confirm the kitchen acrylic specification and warranty in writing.
+
+Sources: [CASA INTERIORS.pdf](</Users/kush.jain/Library/CloudStorage/GoogleDrive-kush.jain@salesforce.com/.shortcut-targets-by-id/1fiW1nOgM1bIBHzb6GCBhbxNYPMMMK_DA/Home-12807 my home sayuk/interiors/quotations after design v1/CASA INTERIORS.pdf>) — pages 1–5.
+
+Review sources: [Matched directory rating](https://glassy.in/glass-business/casa-interiors-and-decor-9th-phase/), [Company-selected testimonials](https://casainteriorsanddecor.com/why-choose), [Ellopages identity match](https://www.ellopages.com/listing/casainteriorsanddecor-hyderabad).
+
+### 7 Trendy Space
+
+**Price:** ₹18,68,325 + stone supply, omitted units/services and tax clarification
+
+A detailed premium-finish quote with extensive utility, acrylic kitchen and lighting. Its expensive package still omits several required units and the exact pooja design, reducing its value relative to the shortlist.
+
+**Materials:** Century Bond Shield carcasses; HDHMR/blockboard shutters; 0.8 mm fabric liner and 1 mm laminate, acrylic kitchen. Hettich soft-close hinges/channels, but kitchen accessories specifically DTK/EverSlide rather than Hettich. Saint-Gobain/ModiGuard glass; Godrej locks; Gyproc/UltraLite ceiling; Havells/Wipro electrical and Avion profiles.
+
+**Included:** TV storage/panelling, common washbasin box, provisional pooja, three wardrobes/lofts, master and bedroom-3 workstations, dressing-size secondary master wardrobe, kitchen and tall/fridge unit, five tandems plus pantry/pullout accessories, 78 sq ft utility storage, stone installation, painting, ceiling and substantial lighting including sensors.
+
+**Missing, excluded or unconfirmed:** No separate three bathroom vanity units, drawing-room mirror/console ensemble or serving counter. Bedroom-2 study/ledge is not listed. Pooja design explicitly not fully factored. Stone material is customer supply despite ₹70,000 installation charge. Plumbing, sanitaryware, sinks/taps, switches/boards, heavy-load points, deep cleaning, debris and handling excluded.
+
+**Added or potentially optional scope:** Wardrobe profile lighting ₹31,500 and ten sensors ₹9,000; kitchen/fridge surround and pantry package; window frameworks ₹18,900 each in master and bedroom 3. Some may be desired upgrades, but need comparison to the reference. 1,900 sq ft ceiling plus ₹65,000 ceiling finish warrants measurement. Tall-door straighteners are extra at ₹900 each.
+
+**Cost and measurement audit:** Numeric line items total ₹18,68,325. Walls painting ₹90,000 and ceiling painting ₹65,000 are separate scopes, not automatically duplicate billing. Five kitchen tandems here cannot be priced as Hettich just because the general hardware specification says Hettich.
+
+**Payments, warranty and timing:** 10% token, 40% order/procurement, 20% materials delivery, 25% substantial furniture completion, 5% completion/before handover. Final measurement and 7-day validity. Manufacturer plywood warranty claimed; no clear complete-project workmanship period.
+
+**Review evidence:** No confidently matched independent review profile. The quote lacks a vendor address, phone and email. The online business The Trendy Space found in research describes itself as Pune-based and cannot be assumed to be this firm.
+
+**Next quotation request:** Identify the business; add drawing/serving-counter/bathroom scope, fix pooja design and stone supply, remove optional lighting if unnecessary, and get an all-inclusive price.
+
+Sources: [TRENDY SPACE.pdf](</Users/kush.jain/Library/CloudStorage/GoogleDrive-kush.jain@salesforce.com/.shortcut-targets-by-id/1fiW1nOgM1bIBHzb6GCBhbxNYPMMMK_DA/Home-12807 my home sayuk/interiors/quotations after design v1/TRENDY SPACE.pdf>) — pages 1–2.
+
+### 8 D’LIFE Interiors
+
+**Price:** ₹23,36,371 at the quote’s 18% GST, before remaining work
+
+Best documented service structure and a recognisable company, but a costly fit for this requirement. Much of the dry-area furniture is proprietary fibreboard, and almost all payment is required before dispatch.
+
+**Materials:** D-HFB hardwood fibreboard for many drawing/living/bedroom units: 17 mm carcasses, 18 mm shutters/panels, 7.5 mm backs. Kitchen/utility/vanity lines specify 100% Gurjan plywood plus D-HFB; general wet-area note specifies 17 mm high-density PVC. Hettich/Häfele hardware, Saint-Gobain/ModiGuard glass, Saint-Gobain gypsum. This is a mixed-material quote, not all-plywood furniture.
+
+**Included:** Drawing storage/mirror-wall cabinetry and moulding, serving counter, TV storage, pooja cabinet/open storage, common wash storage/mirror/top, modular kitchen/tall unit/selected Hettich accessories, kitchen granite and tile, wardrobes/dressing/studies, all three bathroom vanity boxes/mirrors, utility upper/lower cabinets and granite, ceiling/ceiling painting and 60 lights.
+
+**Missing, excluded or unconfirmed:** General electrical wiring/points, decorative/profile/cove lighting, whole-house wall painting, detailed pooja relief/arch/profile-glass arrangement, utility stainless-steel countertop/backsplash/rack, bathroom countertop/sanitaryware scope and final cleaning are not established by the listed items. Bedroom-2 desk is not listed. Plain ceiling does not by itself price all reference tray/cove designs.
+
+**Added or potentially optional scope:** 1,800 sq ft plain false ceiling ₹2,41,084, ceiling finish ₹70,219 and 60 lights ₹79,199 form a substantial allowance; require design-based quantities. Bronze serving-counter cladding differs from the white-and-gold reference and should be approved as a substitution.
+
+**Cost and measurement audit:** ₹14,94,651 discounted factory products + ₹4,85,324 non-factory work = ₹19,79,975 before GST. At the quote’s stated 18%, ₹23,36,370.50 (rounded ₹23,36,371). Its printed payment schedule totals ₹23,36,370 due to rounding. The advertised factory-product discount is already included; do not discount the entire amount again.
+
+**Payments, warranty and timing:** ₹40,000 token; cumulative 10% for design and 50% for production. All but ₹20,000 payable at least seven days before dispatch: roughly 99.1% before delivery. 10-year engineered-woodwork warranty, limited to stated conditions; leakage, dampness and several finishes excluded. Brochure says 40 working days subject to conditions; confirm complete scope timeline.
+
+**Review evidence:** Hyderabad Banjara Hills Justdial listing shows 4.6/5 from 84 ratings but no visible individual review text. A September 2026 Kompally Reddit post praises execution and finish, but is unverified. Trustpilot shows 2.8/5 from only three reviews, including complaints about booking/cost changes; those are cross-city opinions, not proof about the team quoting you. Treat the picture as mixed, and ask which branch/project manager will execute.
+
+**Next quotation request:** Reprice required ceiling area and actual reference details, show all-plywood versus D-HFB options, include electrical/painting/cleaning and obtain a meaningful payment balance after installation.
+
+Sources: [DLIFE INTERIORS.pdf](</Users/kush.jain/Library/CloudStorage/GoogleDrive-kush.jain@salesforce.com/.shortcut-targets-by-id/1fiW1nOgM1bIBHzb6GCBhbxNYPMMMK_DA/Home-12807 my home sayuk/interiors/quotations after design v1/DLIFE INTERIORS.pdf>) — pages 2–13 and 16.
+
+Review sources: [Hyderabad branch rating](https://www.justdial.com/Hyderabad/DLIFE-Home-Interiors-Opposite-Mahesh-Bank-Banjara-Hills/040PXX40-XX40-230614171014-W1S8_BZDET/reviews), [Trustpilot small review sample](https://www.trustpilot.com/review/dlifeinteriors.com), [Unverified Kompally customer account](https://www.reddit.com/r/interiordesignsindia/comments/1we25b5/our_experience_with_dlife_interiors_kompally/).
+
+### 9 Rohit Vihangawala Interiors
+
+**Price:** ₹13,33,025 with ₹35,000 design; civil/stone/utility and taxes extra
+
+Competitive joinery rates and Hettich hardware, but uncertain room mapping, added bedroom storage and front-loaded payment weaken the offer. Its low headline is not a complete comparable scope.
+
+**Materials:** BWP 710 plywood across house; kitchen lower unit Austin Gold/Greenply (spelling in sheet is Ausit). Hettich hardware; ₹30,000 soft-close upgrade excludes internal drawers and lofts. 2 mm factory edge banding, 0.8 mm white liner, ₹1,800/sheet exterior laminate allowance, Saint-Gobain ceiling. Bathroom PVC is explicit for master and bedroom 3 but not bedroom 2.
+
+**Included:** Three wardrobes/lofts; master wardrobe/dressing and study; bedroom-3 study; serving/crockery/pooja/TV/common vanity; kitchen base/upper/loft, three tandems and pullout; three bathroom units; ceiling, wall/ceiling painting, wiring and limited lights; protection/transport.
+
+**Missing, excluded or unconfirmed:** Utility fit-out is not separately listed. Granite, tile, civil and glass work, plumbing and cleaning are actuals. ₹35,000 design is outside the total; profile doors ₹750/sq ft and decorative wardrobe patterns extra. Hall-only light allowance (30 lights and 50 m rope) does not cover the complete house. Full reference mirror/pooja/utility details unconfirmed.
+
+**Added or potentially optional scope:** Bedroom 2 has a ₹91,350 extended walk-in closet plus associated lofts, not clearly shown in the reference. The ₹60,900 master wardrobe/dressing is 6 ft wide and should be checked against the actual passage. Confirm the extra storage before accepting the total.
+
+**Cost and measurement audit:** Section totals sum to ₹12,98,025; adding design gives ₹13,33,025. Several displayed dimensions do not agree with formulas: common vanity 4 × 2.5 ft is 10 sq ft, but the formula bills 12; bedroom-2 loft 6 × 2 ft is 12 sq ft, but the formula bills 22. Resolve these against drawings before pricing.
+
+**Payments, warranty and timing:** ₹2 lakh token; 70% before work (confirm whether token is included); all but ₹20,000 after boxes/before shutter skins; final ₹20,000 before keys. Final measurement and taxes extra. No firm completion date or workmanship warranty.
+
+**Review evidence:** No confidently matched independent reviews. The workbook contains no vendor phone, address or website and exact-name searches did not establish identity.
+
+**Next quotation request:** Correct formulas, map wardrobes to actual rooms, remove any unrequested walk-in closet, include utility and civil work, and replace advance-heavy payment terms with installation milestones.
+
+Sources: [ROHIT VIHANGAWALA INTERIORS.xlsx](</Users/kush.jain/Library/CloudStorage/GoogleDrive-kush.jain@salesforce.com/.shortcut-targets-by-id/1fiW1nOgM1bIBHzb6GCBhbxNYPMMMK_DA/Home-12807 my home sayuk/interiors/quotations after design v1/ROHIT VIHANGAWALA INTERIORS.xlsx>) — OM rows 5–90.
+
+### 10 Gautam Carpenter and Interiors
+
+**Price:** ₹9,85,000 consolidated estimate; included scope and tax need confirmation
+
+Potentially the cheapest worthwhile contractor option, with strong material claims, but the file reads as a consolidated account of communications rather than a detailed vendor-issued bill of quantities. Do not contract on this summary alone.
+
+**Materials:** Summary says Century Bond/Club 710 marine plywood in 18/12/9 mm, Greenlam 1 mm, acrylic kitchen, marine Fevicol, Rehau edging, Hettich hardware and Saint-Gobain glass. Finolex/Wipro electrical; Ispat channel/All India gypsum. Exact product identities and the scope to which each specification applies require vendor confirmation.
+
+**Included:** Consolidated headings: carpentry ₹7,70,000, false ceiling ₹90,000, electrical ₹70,000 and painting ₹55,000. Narrative also mentions utility WPVC, kitchen rolling shutter/pantry, tile work, granite at kitchen/crockery/mandir and deep cleaning.
+
+**Missing, excluded or unconfirmed:** No room-by-room dimensions or firm number of wardrobes, drawers, vanities, lights, profile doors and worktops. It is unclear whether narrative glass, stone, cleaning and other earlier-draft items are all included within the final four headings. Design, warranty, payment milestones and GST absent.
+
+**Added or potentially optional scope:** Godrej hydraulic bed fittings, kitchen rolling shutter and pantry are mentioned although beds and those mechanisms are not an explicit priced requirement in the reference. Clarify whether they are included, optional or left over from previous discussions.
+
+**Cost and measurement audit:** ₹7,70,000 + ₹90,000 + ₹70,000 + ₹55,000 = ₹9,85,000. Earlier drafts show ₹9,14,000 and ₹10,92,000 and must not be combined with the latest summary. Phone 9651202712 is also printed on Vighnaharta’s image; their relationship and price difference are unconfirmed.
+
+**Payments, warranty and timing:** Lump-sum preliminary estimate; measurement revision possible. No written payment or service schedule in this supplied summary.
+
+**Review evidence:** No confidently matched reviews from exact phone/name searches. The shared phone with Vighnaharta is a document observation, not proof of identical ownership or execution team.
+
+**Next quotation request:** Obtain one signed itemised quote naming the contracting entity, reconcile it with Vighnaharta, and verify the material schedule and inclusions against completed homes before treating ₹9.85 lakh as executable.
+
+Sources: [gautam carpenters 985000](</Users/kush.jain/Library/CloudStorage/GoogleDrive-kush.jain@salesforce.com/.shortcut-targets-by-id/1fiW1nOgM1bIBHzb6GCBhbxNYPMMMK_DA/Home-12807 my home sayuk/interiors/quotations after design v1/gautam carpenters 985000>) — consolidated estimate and preceding drafts in the supplied Word-format file.
+
+### 11 Vighnaharta Interiors
+
+**Price:** ₹12,13,000 item total; ₹12,00,000 rough offer; painting/tax unclear
+
+Broad lump-sum coverage at a low price, but inadequate material detail and possible overlap in mandir/storage scope. It needs a revised quote before it can compete fairly with the shortlist.
+
+**Materials:** Only WPVC for the four under-washbasin cabinets and Wipro-or-equivalent basic ceiling lights are specified. No plywood brand/grade/thickness, laminate or hardware specification. Do not import Gautam’s material claims into this offer without written confirmation.
+
+**Included:** TV near main door; full-height storage/mandir; four WPVC washbasin units; crockery with mandir; three bedroom wardrobe/desk packages and master dressing; kitchen/utility/granite; ceiling; wiring and basic light fixtures; 2D/3D, protection and deep cleaning.
+
+**Missing, excluded or unconfirmed:** No painting line. Exact TV location and both drawing/living reference units need mapping. Lofts, glass/profile doors, relief/arch, lighting quantities, countertop specifications, sinks/taps, plumbing and utility stainless-steel finish are not defined. No warranty, timeline or tax treatment.
+
+**Added or potentially optional scope:** ₹80,000 full-height storage/mandir and ₹1,50,000 crockery with mandir may represent separate required units or overlap. ₹1,00,000 TV near the main door may be a mislabelled drawing-room unit: map each to a wall before assuming duplication.
+
+**Cost and measurement audit:** 13 lines sum correctly to ₹12,13,000; the image separately offers ₹12,00,000 as a rough estimate. Same 9651202712 number as Gautam. Listed price differs by ₹2,28,000 from Gautam’s ₹9,85,000, or ₹2,15,000 at the rough ₹12 lakh figure.
+
+**Payments, warranty and timing:** 30% measurements/drawings/ceiling stage, 50% woodwork/procurement, 15% finishing, 5% deep cleaning/handover. Rough estimate before measurements and 3D finalisation.
+
+**Review evidence:** No confidently matched customer reviews for the quoted phone numbers 9951511255 and 9651202712. Same-name firms in other cities are not evidence about this offer.
+
+**Next quotation request:** Issue one room-by-room material and finish schedule, confirm painting and plumbing, resolve possible mandir overlap and the Gautam relationship, and specify exact fixtures and retention.
+
+Sources: [viganharta interiors.jpeg](</Users/kush.jain/Library/CloudStorage/GoogleDrive-kush.jain@salesforce.com/.shortcut-targets-by-id/1fiW1nOgM1bIBHzb6GCBhbxNYPMMMK_DA/Home-12807 my home sayuk/interiors/quotations after design v1/viganharta interiors.jpeg>) — single quotation image.
+
+### 12 Mega Interiors
+
+**Price:** ₹18,91,150; alternatives ₹18,00,850 and ₹17,42,850; important exclusions remain
+
+A relatively expensive modular proposal with several attractive finish inclusions, but it lacks unit prices and contradicts itself on accessories. The 70% order advance is also difficult to justify against an unfinished scope.
+
+**Materials:** 16 mm internal plywood in most modular units, 19 mm TV/pooja plywood, BWP 710 grade with no manufacturer named. 0.72 mm liner, 1 mm laminate/acrylic, ₹2,500 laminate range. Hettich soft-close telescopic drawers/hinges; Taiton profile sliding doors in two bedrooms. 4 mm PVC backing behind wardrobes.
+
+**Included:** Three wardrobes/lofts/studies; master dressing; two profile-glass sliding wardrobes; U-shaped acrylic kitchen with seven tandems and pullout listed; TV unit; utility; wash area; three bathroom vanities; site-made pooja with digital glass; all-room gypsum ceiling and balcony PVC ceiling; design, protection, cleaning and electrical labour.
+
+**Missing, excluded or unconfirmed:** Electrical materials and lights, painting, stone and unlisted glass are excluded. The exclusion of kitchen/bedroom accessories conflicts with the listed seven tandems and bottle pullout. Drawing mirror/storage wall, serving counter and utility stainless-steel finish need explicit confirmation. No room-level price or area, warranty or complete programme.
+
+**Added or potentially optional scope:** Acrylic master-bedroom finish, profile-glass sliding bedroom wardrobes and balcony PVC ceiling are choices beyond a basic laminate interpretation. Option 2 reduces ₹90,300 by using kitchen/master laminate; option 3 is ₹17,42,850 with wooden sliding shutters, but whether all preceding downgrades apply needs written clarification.
+
+**Cost and measurement audit:** Main ₹18,91,150; option 2 ₹18,00,850; option 3 ₹17,42,850. No line-level amounts are provided to verify the package sum. The generic filename is a Mega Interiors quotation, not another unnamed vendor.
+
+**Payments, warranty and timing:** 70% with order, balance before handover. No written completion date or workmanship warranty.
+
+**Review evidence:** No confidently matched independent reviews using Somajiguda/Punjagutta location and quoted phones 9247611111 / 8500818127. Reviews of Mega/Megha firms elsewhere were excluded.
+
+**Next quotation request:** Price units individually, resolve accessories inclusion, quote electrical/painting/stone work, define each alternative, and materially reduce the advance tied to order confirmation.
+
+Sources: [KUSH GARU MY HOME SAYUK ESTIMATION.pdf](</Users/kush.jain/Library/CloudStorage/GoogleDrive-kush.jain@salesforce.com/.shortcut-targets-by-id/1fiW1nOgM1bIBHzb6GCBhbxNYPMMMK_DA/Home-12807 my home sayuk/interiors/quotations after design v1/KUSH GARU MY HOME SAYUK ESTIMATION.pdf>) — pages 1–4.
+
+### 13 RK Interior Design Works
+
+**Price:** ₹14,54,750 printed; listed lines actually sum to ₹14,57,750
+
+Least decision-ready quote: a large combined carpentry line, unclear descriptions, no core material specification and a total mismatch. This ranks the quotation quality, not the carpenter’s actual workmanship.
+
+**Materials:** Acrylic kitchen is mentioned, plus PVC wall work and profile glass. No plywood manufacturer/grade/thickness, laminate, hardware, ceiling-board or lighting brand; no wet-area construction schedule.
+
+**Included:** Combined 815 sq ft carpentry covering TV/wardrobes/dressing/study/folding table/kitchen/pooja; 193 sq ft wall panelling; PVC wall work; wiring; 30 ceiling lights, 20 spots and 100 m profile light; electrical fitting labour; profile glass; deep cleaning and false ceiling.
+
+**Missing, excluded or unconfirmed:** No room-level measurements or price breakdown; utility, all four vanities, serving counter, granite/plumbing, design and whole-house painting are not clearly established. Do not interpret the unclear phrase dining wall painting as a whole-flat painting commitment. Taxes, warranty, timeline and payment terms absent.
+
+**Added or potentially optional scope:** ₹1,64,050 wall panelling (193 sq ft), ₹20,000 PVC wall work and ₹53,000 profile glass need wall-by-wall design mapping. The reference needs some mouldings and glass, but this allocation may describe a different finish scope.
+
+**Cost and measurement audit:** 815 × ₹1,300 = ₹10,59,500; 193 × ₹850 = ₹1,64,050. All 11 priced lines add to ₹14,57,750, which is ₹3,000 above the printed ₹14,54,750.
+
+**Payments, warranty and timing:** No written commercial terms beyond price and date in the supplied image.
+
+**Review evidence:** No confidently matched reviews for Rakesh Moriya, Ameenpur, and phones 9849324033 / 9959795654. Generic RK Interiors listings cannot safely be attributed to this contractor.
+
+**Next quotation request:** Replace the image with a corrected itemised quotation linked to the drawings, exact materials, taxes, warranty, completion plan and payment milestones.
+
+Sources: [rk interiors.jpeg](</Users/kush.jain/Library/CloudStorage/GoogleDrive-kush.jain@salesforce.com/.shortcut-targets-by-id/1fiW1nOgM1bIBHzb6GCBhbxNYPMMMK_DA/Home-12807 my home sayuk/interiors/quotations after design v1/rk interiors.jpeg>) — single quotation image dated 26 September 2026.
+
+## Review method
+
+Reviews were matched using quoted phone numbers, addresses and business names wherever possible. Ratings are snapshots of the named websites; they are not verified current Google ratings. No review found means insufficient public evidence, not poor work. Reviews of unrelated namesakes, employee reviews and company marketing claims were not treated as customer proof.
+
+## Before choosing the contractor
+
+1. Use one marked-up floor plan and one unit schedule for all vendors. Record width, height and depth in millimetres, with separate box, frame/shutter, panel and running-foot quantities. Include a room-by-room ceiling take-off.
+2. Confirm all reference elements individually: drawing mirror wall, serving counter, usable TV storage, exact corner pooja, kitchen, three wardrobes/studies/dressing, four vanity areas and complete utility including stainless steel and drying rack.
+3. Freeze plywood maker/product/grade/thickness, shutter substrate, back-panel thickness, laminate brands and sheet-price limits, edge-band thickness, hinge/channel/tandem models, load ratings and soft-close exceptions.
+4. Specify the complete wet-area system: base material, edges/sealing, supports, stone or steel top, sink/tap, plumbing access and leak-related service responsibility. A material label alone does not establish the complete assembly.
+5. Ask for one final payable total with tax basis, design, stone, tiles, plumbing, electrical materials/labour, every light/driver, paint, protection, carrying charges, debris disposal and deep cleaning shown. Mark optional extras separately.
+6. For each shortlisted vendor, inspect one live site and at least two occupied homes, including one a year or more old. Speak with the owners about final versus initial price, finishing defects, delays and service response. Verify the actual site supervisor.
+7. Specify finish samples, approval/change-control process, completion date and dependencies, workmanship coverage, brand warranty documents and staged payments with money remaining for snag closure.
