@@ -1,8 +1,8 @@
 # Interior quotation comparison for flat 12 807
 
-Happy Living enters at number 5 as a budget reserve; the first four preferences remain unchanged. Start with DZINE for value, 5Tattva as the mid-range alternative, Lucky for stronger identifiable local review evidence, and IRIS for the closest written match to the visual design. This is a provisional order for the next quotation round, not approval to pay a deposit. The ranking balances quoted value, design coverage, material specificity, commercial terms and review confidence; it is not a measurement of workmanship.
+Dexito enters at number 3 for its explicit design features and competitive disclosed cost, subject to measured scope and better payment terms. Start with DZINE for value and 5Tattva as the mid-range alternative; Lucky is now fourth for identifiable local review evidence and detailed materials, and IRIS fifth for the closest written design match. Happy Living moves to sixth as the first budget reserve. This is a provisional order for the next quotation round, not approval to pay a deposit. The ranking balances quoted value, design coverage, material specificity, commercial terms and review confidence; it is not a measurement of workmanship.
 
-Reviewed all 13 submitted offers, including Happy Living’s quotation and separate material sheet, against the attached 15-page 12807 design requirments v1.pdf for flat 12-807, My Home Sayuk. The user’s mention of 12801 was treated as a filename typo. Visual references describe intended features but are not complete construction drawings: items absent from a quote are labelled unpriced or unconfirmed, not asserted to be excluded unless the vendor says so. Loose beds, sofas, appliances, curtains and décor were not silently added to the common scope. Research date: 27 September 2026.
+Reviewed all 14 submitted offers, including Dexito’s five-page estimate and Happy Living’s quotation and separate material sheet, against the attached 15-page 12807 design requirments v1.pdf for flat 12-807, My Home Sayuk. The user’s mention of 12801 was treated as a filename typo. Visual references describe intended features but are not complete construction drawings: items absent from a quote are labelled unpriced or unconfirmed, not asserted to be excluded unless the vendor says so. Loose beds, sofas, appliances, curtains and décor were not silently added to the common scope. Research date: 27 September 2026.
 
 ## Preference order and cost
 
@@ -12,17 +12,18 @@ All prices below retain each supplier’s tax basis. They are not complete compa
 |---|---|---|---|
 | 1 | DZINE Studio | ₹12,05,460 + unpriced scope and tax clarification | Shortlist |
 | 2 | 5Tattva Dsign Studio | ₹14,51,150 including its listed allowances; further extras/tax unresolved | Shortlist |
-| 3 | Lucky Interiors | ₹17,22,582 net; ₹19,86,632 if page-5 extras are fully additional; GST extra | Shortlist |
-| 4 | IRIS Design Studio Hyderabad | ₹19,83,434 + blank/unpriced items and tax clarification | Shortlist |
-| 5 | Happy Living Interiors | ₹12,89,608 including all priced optional sections; purchases, upgrades, missing scope and taxes extra | Reserve |
-| 6 | Casa Interiors and Decor | ₹16,01,360 with its three listed 3BHK allowances; remaining scope/tax unresolved | Reserve |
-| 7 | Trendy Space | ₹18,68,325 + stone supply, omitted units/services and tax clarification | Reserve |
-| 8 | D’LIFE Interiors | ₹23,36,371 at the quote’s 18% GST, before remaining work | Reserve |
-| 9 | Rohit Vihangawala Interiors | ₹13,33,025 with ₹35,000 design; civil/stone/utility and taxes extra | Needs rewrite |
-| 10 | Gautam Carpenter and Interiors | ₹9,85,000 consolidated estimate; included scope and tax need confirmation | Needs rewrite |
-| 11 | Vighnaharta Interiors | ₹12,13,000 item total; ₹12,00,000 rough offer; painting/tax unclear | Needs rewrite |
-| 12 | Mega Interiors | ₹18,91,150; alternatives ₹18,00,850 and ₹17,42,850; important exclusions remain | Needs rewrite |
-| 13 | RK Interior Design Works | ₹14,54,750 printed; listed lines actually sum to ₹14,57,750 | Needs rewrite |
+| 3 | D’Exito Projects LLP (Dexito) | ₹13,67,691 summary; ₹16,13,875 if its stated 18% GST is added, plus unconfirmed scope | Shortlist |
+| 4 | Lucky Interiors | ₹17,22,582 net; ₹19,86,632 if page-5 extras are fully additional; GST extra | Shortlist |
+| 5 | IRIS Design Studio Hyderabad | ₹19,83,434 + blank/unpriced items and tax clarification | Shortlist |
+| 6 | Happy Living Interiors | ₹12,89,608 including all priced optional sections; purchases, upgrades, missing scope and taxes extra | Reserve |
+| 7 | Casa Interiors and Decor | ₹16,01,360 with its three listed 3BHK allowances; remaining scope/tax unresolved | Reserve |
+| 8 | Trendy Space | ₹18,68,325 + stone supply, omitted units/services and tax clarification | Reserve |
+| 9 | D’LIFE Interiors | ₹23,36,371 at the quote’s 18% GST, before remaining work | Reserve |
+| 10 | Rohit Vihangawala Interiors | ₹13,33,025 with ₹35,000 design; civil/stone/utility and taxes extra | Needs rewrite |
+| 11 | Gautam Carpenter and Interiors | ₹9,85,000 consolidated estimate; included scope and tax need confirmation | Needs rewrite |
+| 12 | Vighnaharta Interiors | ₹12,13,000 item total; ₹12,00,000 rough offer; painting/tax unclear | Needs rewrite |
+| 13 | Mega Interiors | ₹18,91,150; alternatives ₹18,00,850 and ₹17,42,850; important exclusions remain | Needs rewrite |
+| 14 | RK Interior Design Works | ₹14,54,750 printed; listed lines actually sum to ₹14,57,750 | Needs rewrite |
 
 ## Reference scope
 
@@ -46,9 +47,11 @@ All prices below retain each supplier’s tax basis. They are not complete compa
 
 ## Important comparison findings
 
+**Dexito enters the shortlist, but ₹13.68 lakh is not the tax-inclusive planning figure.** Its listed work adds to ₹13,67,691. Adding the stated 18% GST gives ₹16,13,875.38; ask for an explicit tax-inclusive total. It includes several reference details and countertops that others leave vague, but no measurements, defined utility/bathroom quantities or completion period. It also requires 100% payment before final fittings.
+
 **Happy Living’s total already includes the priced optional sections.** ₹8,20,078 base + ₹2,38,220 ceiling/electrical/paint/protection + ₹1,84,310 finishing allowances + ₹47,000 civil/plumbing = ₹12,89,608. Do not add factory shutter edging, profile doors, design or lighting twice. General soft-close, client stone/tile/sink purchases, deep cleaning, taxes and omitted reference units remain outside this number.
 
-**Happy Living’s lower price comes with a smaller scope.** It enters at rank 5, ahead of Casa but behind the four shortlisted offers. Its utility is only one 8.8 sq ft box, the third bathroom vanity is absent, and the drawing mirror wall, serving counter, proper TV storage and full U-shaped kitchen are not demonstrated. Its BWR dry-area plywood and general non-soft-close fittings also differ from the leading offers. Good directory ratings support a site visit; they do not close these gaps.
+**Happy Living’s lower price comes with a smaller scope.** It is now rank 6, ahead of Casa but behind the five shortlisted offers, including Dexito. Its utility is only one 8.8 sq ft box, the third bathroom vanity is absent, and the drawing mirror wall, serving counter, proper TV storage and full U-shaped kitchen are not demonstrated. Its BWR dry-area plywood and general non-soft-close fittings also differ from the leading offers. Good directory ratings support a site visit; they do not close these gaps.
 
 **Like-for-like price is not yet available.** The quotes differ in scope, quantities, finish and tax treatment. The report only adds supplier-listed allowances and corrects arithmetic; it does not invent a completion budget for unspecified work. A plus sign means unresolved money remains.
 
@@ -60,7 +63,7 @@ All prices below retain each supplier’s tax basis. They are not complete compa
 
 **Plywood product names are not certificates.** IS 303 can include BWP general-purpose plywood; marine plywood has the separate IS 710 standard. Century currently describes Sainik 710 as complying with IS 303 BWP, despite 710 in its product name. Require the sheet label, current product datasheet, grade, manufacturer and invoice rather than rejecting or accepting a board solely on the number.
 
-**Payment exposure differs considerably.** D’LIFE asks for all but ₹20,000 before dispatch, IRIS all money before finishing, Rohit nearly all money before shutter skins and Mega 70% on order. Negotiate a visible installation milestone and a meaningful snag-completion balance. A long plywood warranty is not the same as a workmanship warranty.
+**Payment exposure differs considerably.** D’LIFE asks for all but ₹20,000 before dispatch, IRIS all money before finishing, Dexito all money before final fittings (90% by halfway), Rohit nearly all money before shutter skins and Mega 70% on order. Negotiate a visible installation milestone and a meaningful snag-completion balance. A long plywood warranty is not the same as a workmanship warranty.
 
 Material-standard sources: [IS 710 marine plywood standard](https://www.bis.gov.in/is-710-2024/), [BIS compendium distinguishes general-purpose and marine plywood](https://services.bis.gov.in/tmp/compendium_2025-06-02-04-13-12.pdf), [Century Sainik 710 current product specification](https://www.centuryply.com/plywood/sainik-710).
 
@@ -114,7 +117,33 @@ A useful mid-range alternative with room-level quantities and an unusually expli
 
 Sources: [STATVA INTERIORS.pdf](</Users/kush.jain/Library/CloudStorage/GoogleDrive-kush.jain@salesforce.com/.shortcut-targets-by-id/1fiW1nOgM1bIBHzb6GCBhbxNYPMMMK_DA/Home-12807 my home sayuk/interiors/quotations after design v1/STATVA INTERIORS.pdf>) — pages 1–3.
 
-### 3 Lucky Interiors
+### 3 D’Exito Projects LLP (Dexito)
+
+**Price:** ₹13,67,691 summary; ₹16,13,875 if its stated 18% GST is added, plus unconfirmed scope
+
+Third overall, as a promising design/value shortlist candidate. It explicitly includes the serving counter and top, drawing mirror/storage wall, detailed L-shaped pooja, common vanity/mirror, U-shaped kitchen and countertop/backsplash, at a lower disclosed price than Lucky and IRIS. These inclusions make it a stronger design-fit proposition than Happy Living. It remains behind DZINE and 5Tattva because there are no measured quantities or thickness schedules, general soft-close/tandem hardware is not promised, utility and bathroom scope are uncertain, and the full payment is due before final fittings. This is a priority for a corrected quotation and site visit, not a conclusion about workmanship.
+
+**Materials:** Century BWR plywood with branded designer laminate for the drawing/living units, pooja, wardrobes and bathroom/common vanities. Century BWP plywood is specified for all three kitchen sections (base, overhead and loft) and utility. Exact Century product lines, certifications, plywood/back-panel/shutter thicknesses, laminate maker/thickness/allowance and edge-band specification are absent. Ebco hardware throughout, but hinge/channel models and general soft-close are not stated. Five kitchen wire baskets and one bottle pullout are specified; wire baskets must not be treated as equivalent to Hettich tandem drawer systems in other offers. TV base/loft wording mentions push-to-open silent drawers. Kitchen overhead finish is high-gloss laminate, not an explicit acrylic inclusion. Gyproc ceiling boards, Ultra aluminium channels as written, Wipro concealed round lights and Asian Paints without product series. Bathroom BWR needs a defined wet-area construction and sealing specification.
+
+**Included:** Drawing wall beading, base unit, bevelled mirror and lit profile-shutter tall unit ₹48,750; serving counter/top/profile shutter/light ₹49,400; living TV mouldings, tall/base/loft storage wording and lighting ₹1,80,063. Common handwash base/top/loft, three open shelves and LED mirror ₹52,650. L-shaped pooja base/top, four drawers, CNC wall panel, profile glass shutters, shelves and lighting ₹1,08,810. U-shaped kitchen base, five wire baskets, pullout, countertop/backsplash, overhead units and lofts ₹3,30,720. Utility plywood/hardware, sink and countertop ₹21,840. Three wardrobes/lofts and three study ledges, including master pedestal ₹3,20,385. Toilet vanity work ₹37,440, plain gypsum ceiling ₹1,13,100, Wipro ceiling lights ₹19,500, painting ₹66,300, floor protection ₹5,733 and deep cleaning ₹13,000.
+
+**Missing, excluded or unconfirmed:** No unit dimensions, areas, quantities or rates are supplied, so reference-sized storage and price-per-unit cannot be verified. ₹21,840 utility is an undefined lump sum: lower/upper/tall cabinets, stainless-steel top/backsplash and utensil-drying arrangement are not demonstrated; the sink/top are explicitly included but their specification is absent. One toilet-vanity line does not establish that all three bathrooms, their mirrors and tops are covered. Master dressing/mirror behind the door is not listed. Confirm separate God-frame ledge/display, exact TV upper/side cabinet layout, serving-counter depth/overhang and pooja arch/relief finish against the reference. Plain ceiling does not promise the drawing-room tray ceiling. Whole-home electrical wiring, point changes, switches, labour, ceiling cove/profile lights and plumbing/stone-installation coverage are not explicit; do not assume they are excluded or free. Kitchen sink/tap, utility tap, stone type/thickness/allowance, design/3D fees and any carrying/debris charges need confirmation. No written workmanship/material warranty or numeric completion period. The client header names Kanchan Handa and Myhome Sayuk 1926 sq ft; confirm the estimate is the agreed scope for flat 12-807.
+
+**Added or potentially optional scope:** No obvious unrelated beds, sofa, wallpaper or balcony seating are charged. Most decorative lines map to the reference. Confirm whether the LED mirror, extensive display/skirting/profile lighting and glossy kitchen finish are wanted. Ceiling coverage is unmeasured; price only agreed rooms, tray details and returns. Several counterpart quotes leave stone or profile doors outside the headline, whereas Dexito mentions them within its room prices: do not add them again without checking their allowances.
+
+**Cost and measurement audit:** All 24 priced entries (18 main items plus six wardrobe add-ons) sum exactly to ₹13,67,691. Room/cabinet work totals ₹11,50,058 and ceiling/lights/paint/protection/cleaning total ₹2,17,633. The p. 4 summary and payment plan show no separate GST line, while p. 5 says 18% GST as applicable. If added to the summary, tax is ₹2,46,184.38 and payable total is ₹16,13,875.38, rounded ₹16,13,875; obtain an explicit tax-inclusive total. Do not compare the ₹13.68 lakh summary directly with D’LIFE’s GST-inclusive price. No dimensions means that correct addition does not verify quantities or design coverage. The repeated counter-top description in the common-vanity line is not separately charged and is not evidence of double billing.
+
+**Payments, warranty and timing:** 50% mobilisation advance, 40% after 50% work completion, final 10% before final fittings: 90% paid halfway through and 100% before fittings, with no handover/snags retention. The listed instalments total the pre-GST summary; request the tax-inclusive milestone amounts. Dated 25 September 2026; validity 10 days. Working-day and delay-exception clauses refer to timelines but supply no actual number of days or handover date. No warranty stated in the PDF. The website advertises a 10-year warranty, but its scope is not incorporated into this quotation.
+
+**Review evidence:** Found the D’Exito Hyderabad company website and Dexito Projects LinkedIn presence, but no independently verified customer-review count or reliable matched review corpus. The company site claims a 4.9 Google rating and displays testimonial images; treat these as vendor-published claims, not verified current Google evidence. Its See All Reviews link returned the same homepage during this check. A third-party LeadStal page contains testimonials naming Dexito under a different business, Decor Illusions, with a different contact/website; that mixed listing was excluded. Do not assign unrelated Dexito Branding or Dexito Edutech reviews. The online footprint supports further identification and a site visit, not an independently established service-quality rating.
+
+**Next quotation request:** Provide measured room-by-room drawings/BOQ, exact Century product/thickness and laminate/edge-band schedule, Ebco model numbers and prices for any required soft-close/tandem upgrades. Confirm all three toilet vanities, master dressing, full stainless-steel utility and tray ceiling; identify every electrical/plumbing/design inclusion. State the final GST-inclusive amount and countertop allowances. Put a completion date, warranty coverage and payment retention through final fittings/snags in the contract, and supply recent occupied-home references.
+
+Sources: [DEXITO.pdf](</Users/kush.jain/Library/CloudStorage/GoogleDrive-kush.jain@salesforce.com/.shortcut-targets-by-id/1fiW1nOgM1bIBHzb6GCBhbxNYPMMMK_DA/Home-12807 my home sayuk/interiors/quotations after design v1/DEXITO.pdf>) — pages 1–5; summary/payment plan pp. 4–5; GST p. 5.
+
+Review sources: [D’Exito website: vendor claims and warranty](https://dexito.in/), [Dexito Projects company presence](https://www.linkedin.com/company/dexito-projects), [Mixed directory listing excluded from evidence](https://leadstal.com/sb/decor-illusions-interior-design-company-in-hyderabad).
+
+### 4 Lucky Interiors
 
 **Price:** ₹17,22,582 net; ₹19,86,632 if page-5 extras are fully additional; GST extra
 
@@ -140,7 +169,7 @@ Sources: [LUCKY INTERIORS.pdf](</Users/kush.jain/Library/CloudStorage/GoogleDriv
 
 Review sources: [Yappe review listing](https://yappe.in/telangana/hyderabad/luckyinteriors/243596), [Magicpin listing](https://magicpin.in/Hyderabad/Nallagandla/Lifestyle/Lucky-Interiors/store/18cbb06), [Official identity match](https://www.luckyinteriorshyd.com/).
 
-### 4 IRIS Design Studio Hyderabad
+### 5 IRIS Design Studio Hyderabad
 
 **Price:** ₹19,83,434 + blank/unpriced items and tax clarification
 
@@ -164,11 +193,11 @@ Best written coverage of the specific visual reference, especially the drawing-r
 
 Sources: [IRIS.pdf](</Users/kush.jain/Library/CloudStorage/GoogleDrive-kush.jain@salesforce.com/.shortcut-targets-by-id/1fiW1nOgM1bIBHzb6GCBhbxNYPMMMK_DA/Home-12807 my home sayuk/interiors/quotations after design v1/IRIS.pdf>) — pages 1–3.
 
-### 5 Happy Living Interiors
+### 6 Happy Living Interiors
 
 **Price:** ₹12,89,608 including all priced optional sections; purchases, upgrades, missing scope and taxes extra
 
-Fifth overall and the first budget reserve: an arithmetically consistent quote with identifiable local review evidence, priced finishing allowances and a stated service warranty. It ranks below DZINE and 5Tattva because utility, kitchen and reference storage coverage are materially weaker; below Lucky for the specified hardware/finishing package and below IRIS for design coverage. Its lower price is attractive, but is not for the same scope. It ranks above Casa because the disclosed package is cheaper and the cost build-up is clearer, while both require substantial utility additions. A corrected specification and complete room schedule could move it into the shortlist.
+Sixth overall and the first budget reserve: an arithmetically consistent quote with identifiable local review evidence, priced finishing allowances and a stated service warranty. It ranks below DZINE and 5Tattva because utility, kitchen and reference storage coverage are materially weaker; below Dexito for its more explicit reference features and named plywood, below Lucky for the specified hardware/finishing package and below IRIS for design coverage. Its lower price is attractive, but is not for the same scope. It ranks above Casa because the disclosed package is cheaper and the cost build-up is clearer, while both require substantial utility additions. A corrected specification and complete room schedule could move it into the shortlist.
 
 **Materials:** 18 mm Gurjan IS 303 BWR plywood outside the kitchen; 18 mm BWP 710 marine ply under the kitchen platform, with ₹25,000 already charged for that provision. No plywood manufacturer, back-panel thickness or complete shutter schedule. Other kitchen components and bathroom/utility substrates require clarification. General Hettich non-soft-close hinges/channels (quotation permits Hettich/Häfele); five soft-close Hettich/Häfele kitchen tandem trays plus one Cargotech pullout are included for ₹35,000. General soft-close is unpriced at ₹280/hinge set and ₹800/channel set, quantities absent. 1 mm outer laminate allowance ₹1,400/sheet and 0.8 mm fabric liner ₹450/sheet; laminate manufacturer unstated. Standard edging is 0.8 mm manually pasted, but the ₹12.90 lakh grand total already includes ₹42,160 for 2 mm factory-finished shutter edging; carcass edging is not similarly upgraded. Modi/Saint-Gobain plain/frosted glass and dressing mirrors; Saint-Gobain or equivalent gypsum, channel described only as 0.4 gauge; Polycab wire and Wipro lights. BWR in a dry unit is not automatically unsuitable; the concern is the unnamed product and undefined wet-area specification.
 
@@ -190,7 +219,7 @@ Sources: [happyliving 1.pdf](</Users/kush.jain/Library/CloudStorage/GoogleDrive-
 
 Review sources: [Address-matched Yappe reviews](https://yappe.in/telangana/hyderabad/happy-living-interiors/243577), [Gachibowli Justdial reviews](https://www.justdial.com/Hyderabad/Happy-Living-Interiors-Gachibowli/040PXX40-XX40-220309151658-U7P1_BZDET/reviews), [Company-selected testimonials](https://www.happylivinginteriors.com/).
 
-### 6 Casa Interiors and Decor
+### 7 Casa Interiors and Decor
 
 **Price:** ₹16,01,360 with its three listed 3BHK allowances; remaining scope/tax unresolved
 
@@ -216,7 +245,7 @@ Sources: [CASA INTERIORS.pdf](</Users/kush.jain/Library/CloudStorage/GoogleDrive
 
 Review sources: [Matched directory rating](https://glassy.in/glass-business/casa-interiors-and-decor-9th-phase/), [Company-selected testimonials](https://casainteriorsanddecor.com/why-choose), [Ellopages identity match](https://www.ellopages.com/listing/casainteriorsanddecor-hyderabad).
 
-### 7 Trendy Space
+### 8 Trendy Space
 
 **Price:** ₹18,68,325 + stone supply, omitted units/services and tax clarification
 
@@ -240,7 +269,7 @@ A detailed premium-finish quote with extensive utility, acrylic kitchen and ligh
 
 Sources: [TRENDY SPACE.pdf](</Users/kush.jain/Library/CloudStorage/GoogleDrive-kush.jain@salesforce.com/.shortcut-targets-by-id/1fiW1nOgM1bIBHzb6GCBhbxNYPMMMK_DA/Home-12807 my home sayuk/interiors/quotations after design v1/TRENDY SPACE.pdf>) — pages 1–2.
 
-### 8 D’LIFE Interiors
+### 9 D’LIFE Interiors
 
 **Price:** ₹23,36,371 at the quote’s 18% GST, before remaining work
 
@@ -266,7 +295,7 @@ Sources: [DLIFE INTERIORS.pdf](</Users/kush.jain/Library/CloudStorage/GoogleDriv
 
 Review sources: [Hyderabad branch rating](https://www.justdial.com/Hyderabad/DLIFE-Home-Interiors-Opposite-Mahesh-Bank-Banjara-Hills/040PXX40-XX40-230614171014-W1S8_BZDET/reviews), [Trustpilot small review sample](https://www.trustpilot.com/review/dlifeinteriors.com), [Unverified Kompally customer account](https://www.reddit.com/r/interiordesignsindia/comments/1we25b5/our_experience_with_dlife_interiors_kompally/).
 
-### 9 Rohit Vihangawala Interiors
+### 10 Rohit Vihangawala Interiors
 
 **Price:** ₹13,33,025 with ₹35,000 design; civil/stone/utility and taxes extra
 
@@ -290,7 +319,7 @@ Competitive joinery rates and Hettich hardware, but uncertain room mapping, adde
 
 Sources: [ROHIT VIHANGAWALA INTERIORS.xlsx](</Users/kush.jain/Library/CloudStorage/GoogleDrive-kush.jain@salesforce.com/.shortcut-targets-by-id/1fiW1nOgM1bIBHzb6GCBhbxNYPMMMK_DA/Home-12807 my home sayuk/interiors/quotations after design v1/ROHIT VIHANGAWALA INTERIORS.xlsx>) — OM rows 5–90.
 
-### 10 Gautam Carpenter and Interiors
+### 11 Gautam Carpenter and Interiors
 
 **Price:** ₹9,85,000 consolidated estimate; included scope and tax need confirmation
 
@@ -314,7 +343,7 @@ Potentially the cheapest worthwhile contractor option, with strong material clai
 
 Sources: [gautam carpenters 985000](</Users/kush.jain/Library/CloudStorage/GoogleDrive-kush.jain@salesforce.com/.shortcut-targets-by-id/1fiW1nOgM1bIBHzb6GCBhbxNYPMMMK_DA/Home-12807 my home sayuk/interiors/quotations after design v1/gautam carpenters 985000>) — consolidated estimate and preceding drafts in the supplied Word-format file.
 
-### 11 Vighnaharta Interiors
+### 12 Vighnaharta Interiors
 
 **Price:** ₹12,13,000 item total; ₹12,00,000 rough offer; painting/tax unclear
 
@@ -338,7 +367,7 @@ Broad lump-sum coverage at a low price, but inadequate material detail and possi
 
 Sources: [viganharta interiors.jpeg](</Users/kush.jain/Library/CloudStorage/GoogleDrive-kush.jain@salesforce.com/.shortcut-targets-by-id/1fiW1nOgM1bIBHzb6GCBhbxNYPMMMK_DA/Home-12807 my home sayuk/interiors/quotations after design v1/viganharta interiors.jpeg>) — single quotation image.
 
-### 12 Mega Interiors
+### 13 Mega Interiors
 
 **Price:** ₹18,91,150; alternatives ₹18,00,850 and ₹17,42,850; important exclusions remain
 
@@ -362,7 +391,7 @@ A relatively expensive modular proposal with several attractive finish inclusion
 
 Sources: [KUSH GARU MY HOME SAYUK ESTIMATION.pdf](</Users/kush.jain/Library/CloudStorage/GoogleDrive-kush.jain@salesforce.com/.shortcut-targets-by-id/1fiW1nOgM1bIBHzb6GCBhbxNYPMMMK_DA/Home-12807 my home sayuk/interiors/quotations after design v1/KUSH GARU MY HOME SAYUK ESTIMATION.pdf>) — pages 1–4.
 
-### 13 RK Interior Design Works
+### 14 RK Interior Design Works
 
 **Price:** ₹14,54,750 printed; listed lines actually sum to ₹14,57,750
 
